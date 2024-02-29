@@ -1,9 +1,10 @@
 import { SeeImgIcon } from "@/assets/icons/Icons";
 import { discoverMoreNFTs } from "@/contents";
+import Link from "next/link";
 
 function DiscoverMoreNFTs() {
   return (
-    <div className="mx-auto py-20 lg:py-10 max-w-[1280px] px-[115px] text-color-white lg:px-[72px] sm:px-[30px]">
+    <div className="mx-auto py-20 lg:py-10 max-w-[1280px] px-[115px] text-color-white md:pb-[60px] lg:px-[72px] sm:px-[30px]">
       <div className="flex items-end justify-between">
         <div className="font-work-sans capitalize lg:w-1/2 md:w-full">
           <h3 className="text-38px font-semibold lg:text-28px md:text-28px">
@@ -22,7 +23,11 @@ function DiscoverMoreNFTs() {
       <div className="flex justify-between mt-[60px] sm:my-10 lg:gap-[30px] gap-[30px] sm:gap-5 md:grid md:grid-cols-1">
         {discoverMoreNFTs.map((value) => {
           return (
-            <div key={value.id} className="lg:[&:nth-child(n+3)]:hidden w-full">
+            <Link
+              href="../nft"
+              key={value.id}
+              className="lg:[&:nth-child(n+3)]:hidden md:[&:nth-child(n+3)]:block w-full"
+            >
               <img src={value.bigImg} alt="salom img" className="w-full" />
 
               <div className="bg-color-grey px-[30px] sm:px-[20px] pt-5 rounded-b-[20px] pb-[25px]">
@@ -44,13 +49,13 @@ function DiscoverMoreNFTs() {
                   <p>{value.bigPrice}</p>
                 </div>
               </div>
-            </div>
+            </Link>
           );
         })}
       </div>
 
-      <button className="flex items-center md:block mt-10 gap-3 h-[60px] px-[50px] border-solid border-2 border-color-violet text-16px rounded-[20px] font-semibold font-work-sans">
-        <SeeImgIcon />
+      <button className="hidden items-center md:w-full md:block mt-10 gap-3 h-[60px] px-[50px] border-solid border-2 border-color-violet text-16px rounded-[20px] font-semibold font-work-sans">
+        <SeeImgIcon className="inline mx-3" />
         See All
       </button>
     </div>

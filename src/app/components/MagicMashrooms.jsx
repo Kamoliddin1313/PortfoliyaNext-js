@@ -2,8 +2,8 @@ import { SeeImgIcon } from "@/assets/icons/Icons";
 
 function MagicMashrooms() {
   return (
-    <div className="h-[640px] bg-[linear-gradient(rgba(162,89,255,0.00)0%,#A259FF_100%),url('/magicMashrooms/bg-img.png')] bg-cover bg-center bg-no-repeat">
-      <div className="py-[60px] mx-auto max-w-[1280px] sm:grid md:grid md:grid-cols-1 sm:py-10 px-[115px] lg:px-[72px] sm:px-[30px] mb-auto flex h-[100%] w-full items-end justify-between">
+    <div className="h-[640px] md:h-auto bg-[linear-gradient(rgba(162,89,255,0.00)0%,#A259FF_100%),url('/magicMashrooms/bg-img.png')] bg-cover bg-center bg-no-repeat">
+      <div className="py-[60px] mx-auto max-w-[1280px] sm:grid md:grid md:grid-cols-1 md:py-10 px-[115px] lg:px-[72px] sm:px-[30px] mb-auto flex h-[100%] w-full items-end justify-between">
         <div>
           <button className="flex items-center gap-3 px-5 py-2.5 rounded-[20px] bg-color-grey">
             <img
@@ -15,7 +15,7 @@ function MagicMashrooms() {
             </span>
           </button>
 
-          <h1 className="my-[30px] text-38px font-work-sans font-semibold text-color-white">
+          <h1 className="my-[30px] text-51px font-work-sans font-semibold text-color-white">
             Magic Mashrooms
           </h1>
 
@@ -55,8 +55,8 @@ function MagicMashrooms() {
           </div>
         </div>
 
-        <button className="hidden md:block items-center justify-center gap-3 h-[60px] px-[50px] bg-color-white rounded-[20px]">
-          <SeeImgIcon />
+        <button className="hidden md:block items-center md:mt-[30px] justify-center gap-3 h-[60px] px-[50px] bg-color-white rounded-[20px]">
+          <SeeImgIcon className="inline mx-3" />
           <span className="text-color-black text-16px font-work-sans font-semibold">
             See NFT
           </span>

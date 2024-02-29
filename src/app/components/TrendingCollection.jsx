@@ -23,7 +23,7 @@ function TrendingCollection() {
                 <img src={img} className="w-full" />
               ))}
 
-              <p className="flex font-space-mono md:text-16px items-center text-22px font-bold justify-center bg-color-violet rounded-[20px]">
+              <p className="flex font-space-mono md:text-16px items-center text-22px xl:text-[18px] font-bold justify-center bg-color-violet rounded-[20px]">
                 {imag.total}
               </p>
             </div>

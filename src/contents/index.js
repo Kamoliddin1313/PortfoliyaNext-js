@@ -209,6 +209,190 @@ export const discoverMoreNFTs = [
   },
 ];
 
+export const tab1 = [
+  {
+    id: 1,
+    titleName: "Distant Galaxy",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "MoonDancer",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 2,
+    titleName: "Life On Edena",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "NebulaKid",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 3,
+    titleName: "AstroFiction",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 4,
+    titleName: "CryptoCity",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "MoonDancer",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 5,
+    titleName: "ColorfulDog 0524",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "NebulaKid",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 6,
+    titleName: "Space Tales",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 7,
+    titleName: "Cherry Blossom Girl 037",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "MoonDancer",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 8,
+    titleName: "Dancing Robots 0987",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "NebulaKid",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 9,
+    titleName: "IceCream Ape ",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+];
+
+export const nftTab = [
+  {
+    id: 1,
+    titleName: "Foxy Life",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 2,
+    titleName: "Cat from future",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 3,
+    titleName: "Psycho Dog",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 4,
+    titleName: "Designer Bear",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 5,
+    titleName: "Dancing Robot 0375",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 6,
+    titleName: "Dancing Robot 0356",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 7,
+    titleName: "Dancing Robot 0321",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 8,
+    titleName: "Dancing Robot 0512",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 9,
+    titleName: "Dancing Robot 0024",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Orbitian",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+];
+
 export const howItWorks = [
   {
     id: 1,
@@ -232,5 +416,309 @@ export const howItWorks = [
     titleName: "Start Earning",
     title:
       "Choose between auctions and fixed-price listings. Start earning by selling your NFTs or trading others.",
+  },
+];
+
+export const marketplaceTab = [
+  {
+    id: 1,
+    titleName: "Distant Galaxy",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "MoonDancer",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 2,
+    titleName: "Life On Edena",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "NebulaKid",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 3,
+    titleName: "AstroFiction",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 4,
+    titleName: "CryptoCity",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "MoonDancer",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 5,
+    titleName: "ColorfulDog 0524",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "NebulaKid",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 6,
+    titleName: "Space Tales",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 7,
+    titleName: "Cherry Blossom Girl 037",
+    bigImg: "/discoverMoreNFTs/bigImg1.png",
+    smallImg: "/discoverMoreNFTs/smallImg1.png",
+    smallImgName: "MoonDancer",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 8,
+    titleName: "Dancing Robots 0987",
+    bigImg: "/discoverMoreNFTs/bigImg2.png",
+    smallImg: "/discoverMoreNFTs/smallImg2.png",
+    smallImgName: "NebulaKid",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 9,
+    titleName: "IceCream Ape ",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 10,
+    titleName: "IceCream Ape ",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 11,
+    titleName: "IceCream Ape ",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+
+  {
+    id: 12,
+    titleName: "IceCream Ape ",
+    bigImg: "/discoverMoreNFTs/bigImg3.png",
+    smallImg: "/discoverMoreNFTs/smallImg3.png",
+    smallImgName: "Spaceone",
+    price: "1.63 ETH",
+    bigPrice: "0.33 wETH",
+  },
+];
+
+export const rankingsTopCreators = [
+  {
+    id: 1,
+    img: "/topCreators/keepitreal.png",
+    name: "Jaydon Ekstrom Bothman",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 2,
+    img: "/topCreators/digilab.png",
+    name: "Ruben Carder",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 3,
+    img: "/topCreators/gravityone.png",
+    name: "Alfredo Septimus",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 4,
+    img: "/topCreators/juanie.png",
+    name: "Davis Franci",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 5,
+    img: "/topCreators/bluewhale.png",
+    name: "Livia Rosser",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 6,
+    img: "/topCreators/mrfox.png",
+    name: "Kianna Donin",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 7,
+    img: "/topCreators/shroomie.png",
+    name: "Phillip Lipshutz",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 8,
+    img: "/topCreators/robotica.png",
+    name: "Maria Rosser",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 9,
+    img: "/topCreators/rustyrobot.png",
+    name: "Kianna Stanton",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 10,
+    img: "/topCreators/animakid.png",
+    name: "Angel Lubin",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 11,
+    img: "/topCreators/dotgu.png",
+    name: "Allison Torff",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 12,
+    img: "/topCreators/ghiblier.png",
+    name: "Davis Workman",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 13,
+    img: "/topCreators/keepitreal.png",
+    name: "Lindsey Lipshutz",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 14,
+    img: "/topCreators/digilab.png",
+    name: "Randy Carder",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 15,
+    img: "/topCreators/gravityone.png",
+    name: "Lydia Culhane",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 16,
+    img: "/topCreators/juanie.png",
+    name: "Rayna Bator",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 17,
+    img: "/topCreators/keepitreal.png",
+    name: "Jocelyn Westervelt",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 18,
+    img: "/topCreators/digilab.png",
+    name: "Marilyn Torff",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 19,
+    img: "/topCreators/gravityone.png",
+    name: "Skylar Levin",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
+  },
+
+  {
+    id: 20,
+    img: "/topCreators/juanie.png",
+    name: "Terry Dorwart",
+    userTitle: "34.53 ETH",
+    change: "+1.41%",
+    nftsSold: "602",
   },
 ];

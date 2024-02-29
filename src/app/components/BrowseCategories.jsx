@@ -14,7 +14,7 @@ function BrowseCategories() {
                 <img src={item.img} className="blur-[7px] w-full" />
                 <item.top_img className="absolute -translate-y-1/2 -translate-x-1/2  top-1/2	left-1/2" />
               </div>
-              <p className="lg:p-5 text-16px px-[30px] pt-5 pb-[25px] font-work-sans font-semibold sm:pb-[25px]">
+              <p className="lg:p-5 xl:text-[18px] px-[30px] text-22px lg:text-16px pt-5 pb-[25px] font-work-sans font-semibold sm:pb-[25px]">
                 {item.titleName}
               </p>
             </div>

@@ -2,7 +2,7 @@ import { RocketLaunchIcon } from "@/assets/icons/Icons";
 
 function DiscoverPage() {
   return (
-    <div className="py-20 mx-auto max-w-[1280px] lg:px-[72px] sm:px-[30px] sm:py-10 px-[115px] text-color-white">
+    <div className="py-20 mx-auto max-w-[1280px] lg:px-[72px] sm:px-[30px] md:py-10 px-[115px] text-color-white">
       <div className="grid gap-6 sm:gap-0 item grid-cols-2 md:grid-cols-1">
         <div className="flex-1 xl:w-full">
           <h1 className="text-67px sm:text-28px xl:text-[56px] md:text-28px lg:text-38px font-work-sans font-semibold capitalize">
@@ -18,26 +18,26 @@ function DiscoverPage() {
             </button>
             <div className="flex gap-[30px] justify-between">
               <div className="w-[150px]">
-                <h2 className="text-28px lg:text-22px font-space-mono font-bold md:text-[20px] leading-[39px]">
+                <h2 className="text-28px xl:text-22px font-space-mono font-bold md:text-[20px] leading-[39px]">
                   240k+
                 </h2>
-                <h4 className="text-[24px] lg:text-16px md:text-[14px] font-work-sans leading-[38px]">
+                <h4 className="text-[24px] xl:text-16px md:text-[14px] font-work-sans leading-[38px]">
                   Total Sale
                 </h4>
               </div>
               <div className="w-[150px]">
-                <h2 className="text-28px lg:text-22px font-space-mono font-bold md:text-[20px] leading-[39px]">
+                <h2 className="text-28px xl:text-22px font-space-mono font-bold md:text-[20px] leading-[39px]">
                   100k+
                 </h2>
-                <h4 className="text-[24px] lg:text-16px md:text-[14px] leading-[38px] font-work-sans">
+                <h4 className="text-[24px] xl:text-16px md:text-[14px] leading-[38px] font-work-sans">
                   Auctions
                 </h4>
               </div>
               <div className="w-[150px]">
-                <h2 className="text-28px lg:text-22px font-space-mono font-bold	md:text-[20px] leading-[39px]">
+                <h2 className="text-28px xl:text-22px font-space-mono font-bold	md:text-[20px] leading-[39px]">
                   240k+
                 </h2>
-                <h4 className="text-[24px] lg:text-16px md:text-[14px] leading-[38px] font-work-sans">
+                <h4 className="text-[24px] xl:text-16px md:text-[14px] leading-[38px] font-work-sans">
                   Artists
                 </h4>
               </div>

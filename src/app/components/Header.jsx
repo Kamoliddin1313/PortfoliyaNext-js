@@ -10,6 +10,7 @@ function Header() {
           NFT Marketplace
         </span>
       </Link>
+
       <nav className="ml-auto lg:hidden">
         <ul className="flex gap-[30px] font-work-sans text-16px">
           <li>
@@ -24,13 +25,15 @@ function Header() {
           </li>
         </ul>
       </nav>
+
       <Link
-        href="/"
+        href="/create-account"
         className="flex lg:hidden text-16px font-work-sans items-center gap-3 font-semibold rounded-[20px] h-[60px] px-[30px] bg-color-violet"
       >
         <UserIcon />
         <span>Sign Up</span>
       </Link>
+
       <Link href="/" className="hidden lg:block ml-auto">
         <ToggleBtnIcon />
       </Link>
