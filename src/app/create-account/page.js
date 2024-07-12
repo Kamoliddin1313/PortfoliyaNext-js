@@ -1,4 +1,10 @@
+"use client";
+
 import { LockIcon, MessageIcon, UserIcon } from "@/assets/icons/Icons";
+
+// export const metadata = {
+//   title: "Create Acount",
+// };
 
 function Page() {
   return (

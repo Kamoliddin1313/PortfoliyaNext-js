@@ -24,7 +24,7 @@ function DiscoverMoreNFTs() {
         {discoverMoreNFTs.map((value) => {
           return (
             <Link
-              href="../nft"
+              href={`/nft/${value.id}`}
               key={value.id}
               className="lg:[&:nth-child(n+3)]:hidden md:[&:nth-child(n+3)]:block w-full"
             >

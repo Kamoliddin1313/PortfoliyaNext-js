@@ -6,6 +6,10 @@ import RankingsTab2 from "./RankingsTab2";
 import RankingsTab3 from "./RankingsTab3";
 import RankingsTab4 from "./RankingsTab4";
 
+// export const metadata = {
+//   title: "Rankings",
+// };
+
 function Page() {
   const [tab, setTab] = useState(1);
 

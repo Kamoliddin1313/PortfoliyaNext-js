@@ -5,10 +5,10 @@ function RankingsTab1() {
   return (
     <table className="table w-full">
       <thead>
-        <tr className="flex items-center justify-between border-[1px] px-5 py-3 rounded-[20px] border-color-grey gap-5 w-full text-16px sm:text-12px text-color-info font-space-mono text-center">
+        <tr className="flex items-center justify-between bg-orange-500 border-[1px px-5 py-3 rounded-[20px] border-color-grey gap-5 w-full text-16px sm:text-12px text-color-info font-space-mono text-center">
           <th className="flex items-center gap-5 flex-1 lg:basis-2/3">
             <span>
-              <Rishotka />
+              <Rishotka/>
             </span>
             <span>Artist</span>
           </th>

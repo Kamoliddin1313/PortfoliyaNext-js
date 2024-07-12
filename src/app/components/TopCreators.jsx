@@ -24,7 +24,7 @@ function TopCreators() {
       <div className="mt-[60px] sm:mt-10 grid grid-cols-4 xl:grid-cols-3 lg:grid-cols-2 md:grid-cols-1 gap-[30px] md:gap-[20px] sm:gap-5">
         {topCreators.map((value) => (
           <Link
-            href="../rankings"
+            href={`/rankings/${value.id}`}
             key={value.id}
             className="relative lg:[&:nth-child(n+7)]:hidden sm:lg:[&:nth-child(n+6)]:hidden"
           >

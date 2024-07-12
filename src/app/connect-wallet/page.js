@@ -1,8 +1,14 @@
+"use client";
+
 import {
   CoinbaseIcon,
   MetamaskIcon,
   WalletConnectIcon,
 } from "@/assets/icons/Icons";
+
+// export const metadata = {
+//   title: "Connectet Wallet",
+// };
 
 function Page() {
   return (

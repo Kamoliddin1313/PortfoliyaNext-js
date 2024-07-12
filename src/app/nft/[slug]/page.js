@@ -1,5 +1,9 @@
 import { GlobeIcon } from "@/assets/icons/Icons";
-import NftTab from "./NftTab";
+import NftTab from "../NftTab";
+
+export const metadata = {
+  title: "NFT",
+};
 
 function Page() {
   return (

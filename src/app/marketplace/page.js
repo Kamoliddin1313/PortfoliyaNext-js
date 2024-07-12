@@ -5,6 +5,10 @@ import { useState } from "react";
 import Tab1 from "./marketPlaceTabs/Tab1";
 import Tab2 from "./marketPlaceTabs/Tab2";
 
+// export const metadata = {
+//   title: "Market Place",
+// };
+
 function Page() {
   const [tab, setTab] = useState(1);
 

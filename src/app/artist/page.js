@@ -15,6 +15,10 @@ import Tab2 from "./tabs/Tab2";
 import Tab3 from "./tabs/Tab3";
 import Link from "next/link";
 
+// export const metadata = {
+//   title: "Artist",
+// };
+
 function Page() {
   const [tab, setTab] = useState(1);
 
